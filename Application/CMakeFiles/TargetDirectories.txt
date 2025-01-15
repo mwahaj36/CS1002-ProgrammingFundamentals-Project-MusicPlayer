@@ -1,0 +1,9 @@
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/Music_Player.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/edit_cache.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/rebuild_cache.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/list_install_components.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/install.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/install/local.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/install/strip.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/Music_Player_autogen_timestamp_deps.dir
+C:/Users/Hassaan/Desktop/PF-Project/Application/CMakeFiles/Music_Player_autogen.dir
